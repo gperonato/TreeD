@@ -9,3 +9,8 @@ Implementation in the following works:
 
 ## alphaXYZ (CGAL)
 Create a mesh (OFF file) from a XYZ file using the CGAL's implementation of [alpha shapes](https://en.wikipedia.org/wiki/Alpha_shape). The compiled executable for Windows is available [here](https://github.com/gperonato/TreeD/releases/download/0.0.1/alphashape.exe).
+Usage:
+```bash
+alphashape.exe alpha infile.xyz 
+```
+
